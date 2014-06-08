@@ -24,8 +24,6 @@ Files needed:
 1) game.py
     Classes:
         Start--done
-        Prostitute
-        BarFight
         JailCell
         TownStreets
         PostOffice
