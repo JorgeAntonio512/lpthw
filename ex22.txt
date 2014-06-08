@@ -1,0 +1,84 @@
+Exercise 22: What do you know so far?
+
+Instructions: write down every word or character I have used.
+Write its name and what it does.
+
+From Exercise 0:
+1) python (command line): starts python environ
+2) mkdir (command line): creates folder
+3) cd (command line): go to command
+
+From Exercise 1:
+1) print: prints out what you put after it. subject to user errors (e.g. "print e")
+2) python x.py (command line): runs a python file
+
+From Exercise 2:
+1) # (pound): how to comment out a line in a Python file
+
+From Exercise 3:
+1) + (plus) : adds things
+2) - (minus) : subtracts things
+3) / (slash) : divides things
+4) * (asterisk) : mutliplies things
+5) % (percent) : returns the remainder of two divided numbers
+6) < (less-than) : less than
+7) > (greater-than) : greater than
+8) <= (less-than-equal) : less-than-equal
+9) >= (greater-than-equal) : greater-than-equal
+
+From Exercise 4:
+1) = : assigns the value on the right to a variable on the left
+
+From Exercise 5:
+1) .format() : insert shit into string
+
+From Exercise 6:
+Nothing
+
+From Exercise 7:
+Nothing
+
+From Exercise 8:
+Nothing
+
+From Exercise 9:
+1) \n : newline
+
+From Exercise 10:
+1) \t : horizontal tab
+
+From Exercise 11:
+1) raw_input() : get input from user
+2) int(raw_input()) : get numerical input from user
+
+From Exercise 12:
+1) y = raw_input("Name? ") : This prompts the user with "Name?" and puts the result into the variable y
+
+From Exercise 13:
+1) from sys import argv : import argument variable
+
+From Exercise 14:
+Nothing
+
+From Exercise 15:
+1) open().read() : open and read given file's contents
+
+From Exercise 16:
+1) open().truncate() : open and truncate file
+2) open().write() : open and write to file
+
+From Exercise 17:
+1) from os.path import exists : returns true/false of a file existing
+2) open().close() : open and close file
+
+From Exercise 18:
+1) def : defines the function
+
+From Exercise 19:
+Nothing
+
+From Exercise 20:
+1) open().seek(0) : goes to line of file
+
+From Exercise 21:
+Lots of fancy function returns, but no new terms or symbols

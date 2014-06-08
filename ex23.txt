@@ -1,0 +1,10 @@
+Exercise 23: Read Some Code
+
+*perused (the not careful kind) this shit*
+
+1) Minecraft in 894 lines of Python
+2) Facebook's Tornado chat demo
+3) Python Requests sessions.py
+4) Django/views/generic/base.py
+5) cardinal.py
+

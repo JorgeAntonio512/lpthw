@@ -1,0 +1,35 @@
+Avatars name is Cowboy George.
+Cowboy George must wake up from a dream that takes place in a Wild West setting. To do so, he must get out of the town he finds himself in.
+He starts in a saloon.
+He can either:
+1) go with a prostitute up to one of the rooms
+2) get in a fight with one of the bar denizens.
+3) walk outside of the saloon.
+
+if 1: the prostitute seduces you into letting her tie you up, then strangles you and steals your money. you die. failure.
+if 2: you get hurt, but hurt the other guy more. Sheriff locks you in jail cell. You:
+1) Look around...finish digging out the hidden tunnel you find that was started by old prisoners. you come up outside the town, and wake up from the dream. Good job, you win!
+2) Lay down on the comfortable looking bed. You fall asleep, wake up to find that you have turned into an old man, and spend the rest of your days begging on the town's streets. Failure.
+if 3: you find yourself in the town's streets.
+1) You buy a horse from a sketchy guy in an alley. The guy and some other goons beat you to death, take all your money, and rape your dead body. Failure.
+2) Enter the post office.
+    1) Talk to the gentlemen sending something.
+        1) He is a rich merchant, and gives you passage out of town in one of his stagecoaches.
+    2) Send a letter to your Mother begging her to help get you out of town.
+        1) you never hear back from her because the stagecoach delivering your mail was ambushed, you run out of money, and are forced to be a male gigalo. Failure.
+
+
+
+Files needed:
+1) game.py
+    Classes:
+        Start--done
+        Prostitute
+        BarFight
+        JailCell
+        TownStreets
+        PostOffice
+        Scene--done
+        Map
+        Engine--done
+2) run.py (ex45.py)
