@@ -77,8 +77,7 @@ class JailCell(Scene):
             print "previous prisoners started. You finish digging your"
             print "way out. You come up outside the town."
             print "Congratulations! You win!"
-
-            return 'finished'
+            exit(1)
 
         elif action == "2":
             print "You fall asleep, wake up to find that you have turned"
@@ -125,8 +124,7 @@ class PostOffice(Scene):
             print "The gentleman is a wealthy merchant, and agrees"
             print "to get you out of town on one of his stagecoaches."
             print "Congratulations! You win!"
-
-            return 'finished'
+            exit(1)
 
         elif action == "2":
             print "You write the letter, and wait to hear back."

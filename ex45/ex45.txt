@@ -24,9 +24,9 @@ Files needed:
 1) game.py
     Classes:
         Start--done
-        JailCell
-        TownStreets
-        PostOffice
+        JailCell--done
+        TownStreets--done
+        PostOffice--done
         Scene--done
         Map
         Engine--done
